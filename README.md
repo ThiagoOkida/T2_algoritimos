@@ -10,4 +10,4 @@ de cada classe, e compilado em .class
 
 Para realizar o teste de Impressão execute o arquivo SistemaImpressora.java, já para o 
 teste de Reimpressão execute o arquivo SistemaReimpressao.java, ou rode no terminal:
-"java sistema.SistemaImpressora" e "java sistema.SistemaReimpressao"
+"java sistema.SistemaImpressora" e "java sistema.SistemaReimpressao".
